@@ -1,2 +1,2 @@
-This is just a text
+This is just a normal text.
 More changes
